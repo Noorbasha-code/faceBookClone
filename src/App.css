@@ -1,0 +1,23 @@
+h1{
+    
+    box-sizing: border-box;
+    border: 2px solid black;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    width: 50%;
+    border-radius: 20px;
+    padding: 20px 10px 5px 20px;
+    margin-left: 10%;;
+    box-shadow: 20px 10px 30px 10px black;
+    cursor: pointer;
+    margin-top: 20%;
+}
+h1:hover{
+    zoom: 1;
+    width: 60%;
+    color: green;
+    font-weight: bold;
+
+}
+
